@@ -34,3 +34,11 @@ That’s why I decided to create this curated list. The goal is to make it easy 
 ### Services
 
 - https://supabase.com/
+
+### Tools
+
+- https://bolt.new/
+
+### Tutorials
+
+- https://www.freecodecamp.org/news/create-a-front-end-portfolio-project-with-nextjs-and-threejs/
