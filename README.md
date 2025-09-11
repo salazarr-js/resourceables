@@ -21,22 +21,26 @@ That’s why I decided to create this curated list. The goal is to make searchin
 ## 🤓 What you're looking for
 Here are all the links in an `awesome-like` markdown format, but it's better to take a look at [resourceables.salazarjs.dev](https://resourceables.salazarjs.dev/)
 
-### 📦 Packages
+---
+
+# 📦 Packages
 - https://github.com/mswjs/msw
 - https://github.com/typicode/json-server
 - https://github.com/typicode/jsonplaceholder
 
-### 🛢️ DBs
+# 🛢️ DBs
 - https://github.com/typicode/lowdb
 
-### Services
+# Services
 - https://supabase.com/
 
-### Tools
-- https://bolt.new/
+# Tools
 
-### Tutorials
+
+# Tutorials
 - https://www.freecodecamp.org/news/create-a-front-end-portfolio-project-with-nextjs-and-threejs/
+- [CURSO #NextJs desde 0 - PT 1, #Ventajas, #CuandoUsar, #SEO, #Opinado, #Problemas](https://youtu.be/-2fStJdnG18)
 
-### AI
+# AI
 - https://www.perplexity.ai/
+- https://bolt.new/
