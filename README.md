@@ -45,3 +45,8 @@ Here are all the links in an `awesome-like` markdown format, but it's better to 
 - https://www.perplexity.ai/
 - https://bolt.new/
 - https://stitch.withgoogle.com/
+
+## React
+- https://www.coursera.org/specializations/meta-react-specialization
+- https://fullstackopen.com/en/
+- https://scrimba.com/learn-react-c0e
