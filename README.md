@@ -50,4 +50,5 @@ Here are all the links in an `awesome-like` markdown format, but it's better to 
 - https://www.coursera.org/specializations/meta-react-specialization
 - https://fullstackopen.com/en/
 - https://scrimba.com/learn-react-c0e
+- https://react-tutorial.app/
 - https://youtu.be/XBTJDpT2XaI
