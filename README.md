@@ -1,5 +1,5 @@
 # 📚 Resourceables
-A curated list of useful dev resources
+Curated list of useful dev resources
 
 ## 📖 Reason
 Over time, I've followed many people and projects on platforms like Twitter, YouTube, and GitHub.
