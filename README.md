@@ -40,6 +40,7 @@ Here are all the links in an `awesome-like` markdown format, but it's better to 
 # Tutorials
 - https://www.freecodecamp.org/news/create-a-front-end-portfolio-project-with-nextjs-and-threejs/
 - [CURSO #NextJs desde 0 - PT 1, #Ventajas, #CuandoUsar, #SEO, #Opinado, #Problemas](https://youtu.be/-2fStJdnG18)
+- https://cruip.com/tutorials/
 
 # AI
 - https://www.perplexity.ai/
