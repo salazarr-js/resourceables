@@ -1,4 +1,4 @@
-# 📚 Resourceables
+# 🗂️ Resourceables
 Curated list of useful dev resources
 
 ## 📖 Reason
