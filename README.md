@@ -57,5 +57,8 @@ Here are all the links in an `awesome-like` markdown format, but it's better to 
 - 
 # Books
 - https://the-amazing-gentleman-programming-book.vercel.app/es
-
 - https://websitevice.com/
+
+## Posts
+- https://adrianroselli.com/2019/12/responsive-type-and-zoom.html
+
