@@ -61,5 +61,6 @@ Here are all the links in an `awesome-like` markdown format, but it's better to 
 - https://websitevice.com/
 
 ## Posts
+- https://www.smashingmagazine.com/2023/11/addressing-accessibility-concerns-fluid-type/
 - https://adrianroselli.com/2019/12/responsive-type-and-zoom.html
 
