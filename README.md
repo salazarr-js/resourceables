@@ -35,6 +35,7 @@ Here are all the links in an `awesome-like` markdown format, but it's better to 
 - https://supabase.com/
 
 # Tools
+- https://fluid.style/type
 
 
 # Tutorials
