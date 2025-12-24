@@ -36,6 +36,9 @@ Here are all the links in an `awesome-like` markdown format, but it's better to 
 
 # Tools
 - https://fluid.style/type
+  - https://adrianroselli.com/2019/12/responsive-type-and-zoom.html
+  - https://www.oddbird.net/2025/08/26/type-visual/
+  - https://matthiasott.com/notes/compressed-fluid-typography
 
 
 # Tutorials
