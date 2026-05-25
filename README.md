@@ -23,6 +23,9 @@ Here are all the links in an `awesome-like` markdown format, but it's better to 
 
 ---
 
+# Inspirations
+- https://www.prodmgmt.world/resources
+
 # 📦 Packages
 - https://github.com/mswjs/msw
 - https://github.com/typicode/json-server
